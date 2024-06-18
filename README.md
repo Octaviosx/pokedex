@@ -1,0 +1,2 @@
+# pokedex
+Pokedes proyecto python
